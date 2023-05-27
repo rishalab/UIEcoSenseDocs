@@ -1,0 +1,590 @@
+[
+    {
+        "id": 253505956,
+        "full_name": "cruip/open-react-template",
+        "stars": 2645,
+        "clone_url": "https://github.com/cruip/open-react-template.git"
+    },
+    {
+        "id": 100361754,
+        "full_name": "coreui/coreui-free-react-admin-template",
+        "stars": 4019,
+        "clone_url": "https://github.com/coreui/coreui-free-react-admin-template.git"
+    },
+    {
+        "id": 304350054,
+        "full_name": "cruip/tailwind-landing-page-template",
+        "stars": 1936,
+        "clone_url": "https://github.com/cruip/tailwind-landing-page-template.git"
+    },
+    {
+        "id": 112917393,
+        "full_name": "tbakerx/react-resume-template",
+        "stars": 1370,
+        "clone_url": "https://github.com/tbakerx/react-resume-template.git"
+    },
+    {
+        "id": 250347048,
+        "full_name": "react-boilerplate/react-boilerplate-cra-template",
+        "stars": 1760,
+        "clone_url": "https://github.com/react-boilerplate/react-boilerplate-cra-template.git"
+    },
+    {
+        "id": 237327049,
+        "full_name": "dunky11/react-saas-template",
+        "stars": 1615,
+        "clone_url": "https://github.com/dunky11/react-saas-template.git"
+    },
+    {
+        "id": 363574334,
+        "full_name": "codedthemes/berry-free-react-admin-template",
+        "stars": 1203,
+        "clone_url": "https://github.com/codedthemes/berry-free-react-admin-template.git"
+    },
+    {
+        "id": 163879399,
+        "full_name": "issaafalkattan/React-Landing-Page-Template",
+        "stars": 833,
+        "clone_url": "https://github.com/issaafalkattan/React-Landing-Page-Template.git"
+    },
+    {
+        "id": 359729337,
+        "full_name": "cruip/tailwind-dashboard-template",
+        "stars": 1662,
+        "clone_url": "https://github.com/cruip/tailwind-dashboard-template.git"
+    },
+    {
+        "id": 278934439,
+        "full_name": "Adrinlol/landy-react-template",
+        "stars": 928,
+        "clone_url": "https://github.com/Adrinlol/landy-react-template.git"
+    },
+    {
+        "id": 192856899,
+        "full_name": "chetanverma16/react-portfolio-template",
+        "stars": 886,
+        "clone_url": "https://github.com/chetanverma16/react-portfolio-template.git"
+    },
+    {
+        "id": 325031468,
+        "full_name": "hauptrolle/chakra-templates",
+        "stars": 1273,
+        "clone_url": "https://github.com/hauptrolle/chakra-templates.git"
+    },
+    {
+        "id": 148527447,
+        "full_name": "Shopify/shopify-app-template-node",
+        "stars": 645,
+        "clone_url": "https://github.com/Shopify/shopify-app-template-node.git"
+    },
+    {
+        "id": 230332318,
+        "full_name": "cobiwave/gatsby-simplefolio",
+        "stars": 1610,
+        "clone_url": "https://github.com/cobiwave/gatsby-simplefolio.git"
+    },
+    {
+        "id": 133927297,
+        "full_name": "primefaces/sakai-react",
+        "stars": 513,
+        "clone_url": "https://github.com/primefaces/sakai-react.git"
+    },
+    {
+        "id": 179624736,
+        "full_name": "kb22/ML-React-App-Template",
+        "stars": 277,
+        "clone_url": "https://github.com/kb22/ML-React-App-Template.git"
+    },
+    {
+        "id": 251281230,
+        "full_name": "flatlogic/light-blue-react-template",
+        "stars": 464,
+        "clone_url": "https://github.com/flatlogic/light-blue-react-template.git"
+    },
+    {
+        "id": 231309416,
+        "full_name": "reZach/secure-electron-template",
+        "stars": 1463,
+        "clone_url": "https://github.com/reZach/secure-electron-template.git"
+    },
+    {
+        "id": 393276691,
+        "full_name": "codedthemes/mantis-free-react-admin-template",
+        "stars": 338,
+        "clone_url": "https://github.com/codedthemes/mantis-free-react-admin-template.git"
+    },
+    {
+        "id": 60764878,
+        "full_name": "MacKentoch/react-director-admin-template",
+        "stars": 347,
+        "clone_url": "https://github.com/MacKentoch/react-director-admin-template.git"
+    },
+    {
+        "id": 18840003,
+        "full_name": "kriasoft/react-starter-kit",
+        "stars": 21860,
+        "clone_url": "https://github.com/kriasoft/react-starter-kit.git"
+    },
+    {
+        "id": 112597245,
+        "full_name": "venits/react-native-login-template",
+        "stars": 280,
+        "clone_url": "https://github.com/venits/react-native-login-template.git"
+    },
+    {
+        "id": 306531634,
+        "full_name": "codingki/react-native-expo-template",
+        "stars": 458,
+        "clone_url": "https://github.com/codingki/react-native-expo-template.git"
+    },
+    {
+        "id": 294419498,
+        "full_name": "obytes/react-native-template-obytes",
+        "stars": 697,
+        "clone_url": "https://github.com/obytes/react-native-template-obytes.git"
+    },
+    {
+        "id": 469671359,
+        "full_name": "themeselection/materio-mui-react-nextjs-admin-template-free",
+        "stars": 757,
+        "clone_url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free.git"
+    },
+    {
+        "id": 450058143,
+        "full_name": "goitacademy/react-homework-template",
+        "stars": 151,
+        "clone_url": "https://github.com/goitacademy/react-homework-template.git"
+    },
+    {
+        "id": 225612764,
+        "full_name": "nordicgiant2/react-nice-resume",
+        "stars": 506,
+        "clone_url": "https://github.com/nordicgiant2/react-nice-resume.git"
+    },
+    {
+        "id": 376861015,
+        "full_name": "altence/lightence-ant-design-react-template",
+        "stars": 619,
+        "clone_url": "https://github.com/altence/lightence-ant-design-react-template.git"
+    },
+    {
+        "id": 21174325,
+        "full_name": "neo4j-examples/neo4j-movies-template",
+        "stars": 285,
+        "clone_url": "https://github.com/neo4j-examples/neo4j-movies-template.git"
+    },
+    {
+        "id": 324046627,
+        "full_name": "umijs/dumi-template",
+        "stars": 89,
+        "clone_url": "https://github.com/umijs/dumi-template.git"
+    },
+    {
+        "id": 215039182,
+        "full_name": "delprzemo/react-admin-template",
+        "stars": 447,
+        "clone_url": "https://github.com/delprzemo/react-admin-template.git"
+    },
+    {
+        "id": 110584391,
+        "full_name": "hql287/Manta",
+        "stars": 5235,
+        "clone_url": "https://github.com/hql287/Manta.git"
+    },
+    {
+        "id": 44169330,
+        "full_name": "mz026/universal-redux-template",
+        "stars": 465,
+        "clone_url": "https://github.com/mz026/universal-redux-template.git"
+    },
+    {
+        "id": 319558277,
+        "full_name": "BootstrapDash/corona-react-free-admin-template",
+        "stars": 209,
+        "clone_url": "https://github.com/BootstrapDash/corona-react-free-admin-template.git"
+    },
+    {
+        "id": 421975828,
+        "full_name": "issaafalkattan/react-landing-page-template-2021",
+        "stars": 281,
+        "clone_url": "https://github.com/issaafalkattan/react-landing-page-template-2021.git"
+    },
+    {
+        "id": 379689146,
+        "full_name": "mantinedev/mantine-next-template",
+        "stars": 366,
+        "clone_url": "https://github.com/mantinedev/mantine-next-template.git"
+    },
+    {
+        "id": 205660899,
+        "full_name": "wednesday-solutions/react-template",
+        "stars": 82,
+        "clone_url": "https://github.com/wednesday-solutions/react-template.git"
+    },
+    {
+        "id": 188588605,
+        "full_name": "NiGhTTraX/ts-monorepo",
+        "stars": 1181,
+        "clone_url": "https://github.com/NiGhTTraX/ts-monorepo.git"
+    },
+    {
+        "id": 95027852,
+        "full_name": "angineering/FullStackTemplate",
+        "stars": 229,
+        "clone_url": "https://github.com/angineering/FullStackTemplate.git"
+    },
+    {
+        "id": 164463430,
+        "full_name": "DesignRevision/shards-dashboard-react",
+        "stars": 1602,
+        "clone_url": "https://github.com/DesignRevision/shards-dashboard-react.git"
+    },
+    {
+        "id": 83135714,
+        "full_name": "ar5had/ecommerce-site-template",
+        "stars": 201,
+        "clone_url": "https://github.com/ar5had/ecommerce-site-template.git"
+    },
+    {
+        "id": 344508458,
+        "full_name": "flatlogic/sofia-react-template",
+        "stars": 134,
+        "clone_url": "https://github.com/flatlogic/sofia-react-template.git"
+    },
+    {
+        "id": 170286824,
+        "full_name": "paljs/gatsby-admin-template",
+        "stars": 265,
+        "clone_url": "https://github.com/paljs/gatsby-admin-template.git"
+    },
+    {
+        "id": 138767563,
+        "full_name": "mraible/idea-live-templates",
+        "stars": 266,
+        "clone_url": "https://github.com/mraible/idea-live-templates.git"
+    },
+    {
+        "id": 303071522,
+        "full_name": "paljs/nextjs-admin-template",
+        "stars": 368,
+        "clone_url": "https://github.com/paljs/nextjs-admin-template.git"
+    },
+    {
+        "id": 200381991,
+        "full_name": "nirsky/figma-plugin-react-template",
+        "stars": 290,
+        "clone_url": "https://github.com/nirsky/figma-plugin-react-template.git"
+    },
+    {
+        "id": 316593600,
+        "full_name": "kaustubhai/portfolio-template",
+        "stars": 198,
+        "clone_url": "https://github.com/kaustubhai/portfolio-template.git"
+    },
+    {
+        "id": 526682619,
+        "full_name": "education/codespaces-project-template-js",
+        "stars": 186,
+        "clone_url": "https://github.com/education/codespaces-project-template-js.git"
+    },
+    {
+        "id": 399182544,
+        "full_name": "jellydn/dapp-starter",
+        "stars": 258,
+        "clone_url": "https://github.com/jellydn/dapp-starter.git"
+    },
+    {
+        "id": 218282453,
+        "full_name": "saadpasta/developerFolio",
+        "stars": 4084,
+        "clone_url": "https://github.com/saadpasta/developerFolio.git"
+    },
+    {
+        "id": 222686005,
+        "full_name": "BootstrapDash/StarAdmin-Free-React-Admin-Template",
+        "stars": 224,
+        "clone_url": "https://github.com/BootstrapDash/StarAdmin-Free-React-Admin-Template.git"
+    },
+    {
+        "id": 142871317,
+        "full_name": "aditya-sridhar/simple-reactjs-app",
+        "stars": 142,
+        "clone_url": "https://github.com/aditya-sridhar/simple-reactjs-app.git"
+    },
+    {
+        "id": 84743018,
+        "full_name": "dsuryd/dotNetify-react-template",
+        "stars": 203,
+        "clone_url": "https://github.com/dsuryd/dotNetify-react-template.git"
+    },
+    {
+        "id": 211338286,
+        "full_name": "SinghDigamber/react-login-signup-ui-template",
+        "stars": 79,
+        "clone_url": "https://github.com/SinghDigamber/react-login-signup-ui-template.git"
+    },
+    {
+        "id": 85547679,
+        "full_name": "surveyjs/surveyjs_react_quickstart",
+        "stars": 132,
+        "clone_url": "https://github.com/surveyjs/surveyjs_react_quickstart.git"
+    },
+    {
+        "id": 105200372,
+        "full_name": "rherwig/template-react-ssr",
+        "stars": 167,
+        "clone_url": "https://github.com/rherwig/template-react-ssr.git"
+    },
+    {
+        "id": 92389808,
+        "full_name": "jinjiaxing/react-template-easily",
+        "stars": 154,
+        "clone_url": "https://github.com/jinjiaxing/react-template-easily.git"
+    },
+    {
+        "id": 271595146,
+        "full_name": "suren-atoyan/react-pwa",
+        "stars": 328,
+        "clone_url": "https://github.com/suren-atoyan/react-pwa.git"
+    },
+    {
+        "id": 236869351,
+        "full_name": "mvllow/next-pwa-template",
+        "stars": 345,
+        "clone_url": "https://github.com/mvllow/next-pwa-template.git"
+    },
+    {
+        "id": 337183873,
+        "full_name": "wtchnm/Vitamin",
+        "stars": 346,
+        "clone_url": "https://github.com/wtchnm/Vitamin.git"
+    },
+    {
+        "id": 68060830,
+        "full_name": "SidKwok/template-rwb",
+        "stars": 164,
+        "clone_url": "https://github.com/SidKwok/template-rwb.git"
+    },
+    {
+        "id": 565280125,
+        "full_name": "vercel/nextjs-planetscale-nextauth-tailwindcss-template",
+        "stars": 177,
+        "clone_url": "https://github.com/vercel/nextjs-planetscale-nextauth-tailwindcss-template.git"
+    },
+    {
+        "id": 116592429,
+        "full_name": "stanleyfok/nextjs-template",
+        "stars": 90,
+        "clone_url": "https://github.com/stanleyfok/nextjs-template.git"
+    },
+    {
+        "id": 141257357,
+        "full_name": "ilhammeidi/boss-lite",
+        "stars": 172,
+        "clone_url": "https://github.com/ilhammeidi/boss-lite.git"
+    },
+    {
+        "id": 113474576,
+        "full_name": "jaywcjlove/awesome-uikit",
+        "stars": 1386,
+        "clone_url": "https://github.com/jaywcjlove/awesome-uikit.git"
+    },
+    {
+        "id": 141462821,
+        "full_name": "heysafronov/fogga-kanban",
+        "stars": 104,
+        "clone_url": "https://github.com/heysafronov/fogga-kanban.git"
+    },
+    {
+        "id": 206238979,
+        "full_name": "rescript-react-native/template",
+        "stars": 21,
+        "clone_url": "https://github.com/rescript-react-native/template.git"
+    },
+    {
+        "id": 69668139,
+        "full_name": "kriasoft/relay-starter-kit",
+        "stars": 3750,
+        "clone_url": "https://github.com/kriasoft/relay-starter-kit.git"
+    },
+    {
+        "id": 254466227,
+        "full_name": "MicrosoftDocs/mslearn-staticwebapp",
+        "stars": 65,
+        "clone_url": "https://github.com/MicrosoftDocs/mslearn-staticwebapp.git"
+    },
+    {
+        "id": 58367488,
+        "full_name": "vaclav-zeman/dashboard-react-template",
+        "stars": 78,
+        "clone_url": "https://github.com/vaclav-zeman/dashboard-react-template.git"
+    },
+    {
+        "id": 82579669,
+        "full_name": "framework7io/framework7-template-react",
+        "stars": 105,
+        "clone_url": "https://github.com/framework7io/framework7-template-react.git"
+    },
+    {
+        "id": 484564760,
+        "full_name": "SteamDeckHomebrew/decky-plugin-template",
+        "stars": 79,
+        "clone_url": "https://github.com/SteamDeckHomebrew/decky-plugin-template.git"
+    },
+    {
+        "id": 166684932,
+        "full_name": "simpletut/Testing-React-Redux-with-Jest-and-Enzyme",
+        "stars": 267,
+        "clone_url": "https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme.git"
+    },
+    {
+        "id": 72708520,
+        "full_name": "cooleye/react-template",
+        "stars": 64,
+        "clone_url": "https://github.com/cooleye/react-template.git"
+    },
+    {
+        "id": 157323155,
+        "full_name": "TryGhost/gatsby-starter-ghost",
+        "stars": 989,
+        "clone_url": "https://github.com/TryGhost/gatsby-starter-ghost.git"
+    },
+    {
+        "id": 399107764,
+        "full_name": "rajshekhar26/cleanfolio",
+        "stars": 467,
+        "clone_url": "https://github.com/rajshekhar26/cleanfolio.git"
+    },
+    {
+        "id": 134401061,
+        "full_name": "rsuite/rsuite-admin-template",
+        "stars": 88,
+        "clone_url": "https://github.com/rsuite/rsuite-admin-template.git"
+    },
+    {
+        "id": 183227539,
+        "full_name": "flatlogic/react-material-admin",
+        "stars": 1491,
+        "clone_url": "https://github.com/flatlogic/react-material-admin.git"
+    },
+    {
+        "id": 149236976,
+        "full_name": "react-boilerplate/react-boilerplate-typescript",
+        "stars": 319,
+        "clone_url": "https://github.com/react-boilerplate/react-boilerplate-typescript.git"
+    },
+    {
+        "id": 380835955,
+        "full_name": "Abusayid693/Hackathon-website-template",
+        "stars": 57,
+        "clone_url": "https://github.com/Abusayid693/Hackathon-website-template.git"
+    },
+    {
+        "id": 571126022,
+        "full_name": "srobbin01/daisyui-admin-dashboard-template",
+        "stars": 110,
+        "clone_url": "https://github.com/srobbin01/daisyui-admin-dashboard-template.git"
+    },
+    {
+        "id": 52287953,
+        "full_name": "mcudich/TemplateKit",
+        "stars": 161,
+        "clone_url": "https://github.com/mcudich/TemplateKit.git"
+    },
+    {
+        "id": 222690927,
+        "full_name": "heysafronov/square-react-dashboard",
+        "stars": 192,
+        "clone_url": "https://github.com/heysafronov/square-react-dashboard.git"
+    },
+    {
+        "id": 375470499,
+        "full_name": "gitpod-samples/template-typescript-react",
+        "stars": 12,
+        "clone_url": "https://github.com/gitpod-samples/template-typescript-react.git"
+    },
+    {
+        "id": 74578054,
+        "full_name": "chibat/chrome-extension-typescript-starter",
+        "stars": 1838,
+        "clone_url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
+    },
+    {
+        "id": 100924816,
+        "full_name": "gabdorf/gatsby-portfolio",
+        "stars": 215,
+        "clone_url": "https://github.com/gabdorf/gatsby-portfolio.git"
+    },
+    {
+        "id": 382933025,
+        "full_name": "wiringbits/scala-webapp-template",
+        "stars": 125,
+        "clone_url": "https://github.com/wiringbits/scala-webapp-template.git"
+    },
+    {
+        "id": 291956335,
+        "full_name": "alexey-koran/react-template",
+        "stars": 32,
+        "clone_url": "https://github.com/alexey-koran/react-template.git"
+    },
+    {
+        "id": 392444595,
+        "full_name": "bloomui/tokyo-free-white-react-admin-dashboard",
+        "stars": 219,
+        "clone_url": "https://github.com/bloomui/tokyo-free-white-react-admin-dashboard.git"
+    },
+    {
+        "id": 364986769,
+        "full_name": "SafdarJamal/vite-template-react",
+        "stars": 51,
+        "clone_url": "https://github.com/SafdarJamal/vite-template-react.git"
+    },
+    {
+        "id": 278759541,
+        "full_name": "iPzard/electron-react-python-template",
+        "stars": 144,
+        "clone_url": "https://github.com/iPzard/electron-react-python-template.git"
+    },
+    {
+        "id": 148316290,
+        "full_name": "mdbootstrap/Admin-Dashboard-Template-React-Bootstrap",
+        "stars": 45,
+        "clone_url": "https://github.com/mdbootstrap/Admin-Dashboard-Template-React-Bootstrap.git"
+    },
+    {
+        "id": 234299905,
+        "full_name": "uilibrary/matx-react",
+        "stars": 820,
+        "clone_url": "https://github.com/uilibrary/matx-react.git"
+    },
+    {
+        "id": 185355314,
+        "full_name": "saltyshiomix/react-ssr",
+        "stars": 250,
+        "clone_url": "https://github.com/saltyshiomix/react-ssr.git"
+    },
+    {
+        "id": 282751131,
+        "full_name": "tsparticles/templates",
+        "stars": 58,
+        "clone_url": "https://github.com/tsparticles/templates.git"
+    },
+    {
+        "id": 318599822,
+        "full_name": "mshuber1981/github-react-portfolio-template",
+        "stars": 68,
+        "clone_url": "https://github.com/mshuber1981/github-react-portfolio-template.git"
+    },
+    {
+        "id": 71704758,
+        "full_name": "mrholek/Alba-Bootstrap-4-Admin-Template",
+        "stars": 67,
+        "clone_url": "https://github.com/mrholek/Alba-Bootstrap-4-Admin-Template.git"
+    },
+    {
+        "id": 200658517,
+        "full_name": "wiyarmir/kotlin-multiplatform-template",
+        "stars": 223,
+        "clone_url": "https://github.com/wiyarmir/kotlin-multiplatform-template.git"
+    }
+]
