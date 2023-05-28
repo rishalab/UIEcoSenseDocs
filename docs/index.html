@@ -130,12 +130,31 @@
                     </p>
                     <p>
                       <b>Step 3: For Windows</b>
-                      Make sure powershell is installed. <b>Permission to run unsigned scripts should be enabled or else you will greeted with error message about the same</b>
-                      
+                      Make sure powershell is installed. <b>Permission to run unsigned scripts should be enabled or else
+                        you will greeted with error message about the same</b>
+
                       Run the following command:
                       <code>.\run.ps1</code>
-                      
-                      <a href="https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts">https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts</a>
+
+                    <div class="alert alert-warning" role="alert">
+                      Incase the following <b>Security error</b> occurs in <b>Windows PowerShell</b> while running
+                      <code>.\run.ps1</code>
+
+                      <p><b>Follow the instructions below:</b></p>
+
+                      <ol>
+                        <li>Open Windows PowerShell as “Run as Administrator”</li>
+                        <li>Enable running unsigned scripts by using the following command in the terminal:
+                          <code>set-executionpolicy remotesigned</code>
+                        </li>
+                        <li>Incase the error still persists, run the command :
+                          <code>set-executionpolicy remotesigned -Scope CurrentUser</code>
+                        </li>
+                        <li>Also refer to <a
+                            href="https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts">https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts</a>
+                          in case of further issues.</li>
+                      </ol>
+                    </div>
                     </p>
                     <p>
                       <b>Step 3: For Linux</b>
