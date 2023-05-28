@@ -189,6 +189,49 @@
                     for suggestions.
                   </p>
                 </div>
+                <div class="section-block">
+                  <!-- Smell table -->
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>Smell</th>
+                        <th>Pattern[To be flagged]</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Anonymous Event Handlers</td>
+                        <td>If an attribute that begins with "on"(example: onClick etc) whoose value is an Arrow
+                          Expression</td>
+                      </tr>
+                      <tr>
+                        <td>Asynchronous Script Loading</td>
+                        <td>If a script tag is present without async attribute</td>
+                      </tr>
+                      <tr>
+                        <td>Lazy Loading</td>
+                        <td>If img tag is present and don't have loading set to "lazy". Import statements for user
+                          componenets are present(example: import "./Button")</td>
+                      </tr>
+                      <tr>
+                        <td>Client Side Logging</td>
+                        <td>If console method is present(example: console.log())</td>
+                      </tr>
+                      <tr>
+                        <td>Inline Style</td>
+                        <td>If style attribute is present</td>
+                      </tr>
+                      <tr>
+                        <td>Unoptimized Images</td>
+                        <td>If files with extensions png, jpeg or jpg are present in the repository.</td>
+                      </tr>
+                      <tr>
+                        <td>Web Unsafe fonts</td>
+                        <td>If files with extensions ttf, otf are present in the repository.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
                 <!-- Description of smells -->
 
               </section>
